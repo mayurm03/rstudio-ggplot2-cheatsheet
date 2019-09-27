@@ -1,10 +1,12 @@
+
+#install the packages using install.packages()
+
 library(ggplot2)
 library(tidyverse)
 library(ggrepel)
 library(ggthemes)
 library(extrafont)
 library(MAP)
-install.packages("maps")
 ggplot(data=USArrests)
 
 #1
